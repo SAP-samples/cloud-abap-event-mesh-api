@@ -2,7 +2,7 @@
 
 ## Description
 
-This sapmle code shows ABAP developers how they can leverage the SAP Event Mesh when working in the SAP BTP, ABAP Environment(aka Steampunk).
+This sapmle code shows ABAP developers how they can leverage the SAP Event Mesh when working in the SAP BTP, ABAP Environment(aka Steampunk). For more information, check out the blog post [here]( https://blogs.sap.com/2021/05/06/how-to-leverage-…abap-environment/).
 
 ## Requirements
 Make sure to fulfill the following requirements:
