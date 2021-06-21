@@ -1,4 +1,5 @@
-# How to leverage the SAP Event Mesh from SAP BTP, ABAP Environment
+# How to Leverage the SAP Event Mesh from SAP BTP, ABAP Environment
+<!--[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/cloud-abap-event-mesh-api)](https://api.reuse.software/info/github.com/SAP-samples/cloud-abap-event-mesh-api)-->
 
 ## Description
 
